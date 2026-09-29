@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health, info, loggers # Đã thêm loggers vào danh sách expose
+logging:
+  config: classpath:logback-spring.xml

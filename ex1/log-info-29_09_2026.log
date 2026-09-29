@@ -1,0 +1,80 @@
+2026-09-29 08:05:31.163 INFO  [main] c.e.l.LoggingDemoApplication - Starting LoggingDemoApplication using Java 17.0.19 with PID 1692 (C:\Users\admin\IdeaProjects\IOC-PTHB251125-BE105-SS15-Logging\build\classes\java\main started by admin in C:\Users\admin\IdeaProjects\IOC-PTHB251125-BE105-SS15-Logging)
+2026-09-29 08:05:31.167 INFO  [main] c.e.l.LoggingDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-29 08:05:32.765 INFO  [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2026-09-29 08:05:32.782 INFO  [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2026-09-29 08:05:32.785 INFO  [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2026-09-29 08:05:32.786 INFO  [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.36]
+2026-09-29 08:05:32.876 INFO  [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-09-29 08:05:32.878 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1631 ms
+2026-09-29 08:05:33.974 INFO  [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2026-09-29 08:05:34.022 INFO  [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2026-09-29 08:05:34.042 INFO  [main] c.e.l.LoggingDemoApplication - Started LoggingDemoApplication in 3.697 seconds (process running for 8.962)
+2026-09-29 08:06:02.287 INFO  [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-09-29 08:06:02.287 INFO  [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-09-29 08:06:02.288 INFO  [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2026-09-29 08:10:02.921 INFO  [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-09-29 08:10:02.976 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-09-29 08:10:17.444 INFO  [main] c.e.l.LoggingDemoApplication - Starting LoggingDemoApplication using Java 17.0.19 with PID 15484 (C:\Users\admin\IdeaProjects\IOC-PTHB251125-BE105-SS15-Logging\build\classes\java\main started by admin in C:\Users\admin\IdeaProjects\IOC-PTHB251125-BE105-SS15-Logging)
+2026-09-29 08:10:17.448 INFO  [main] c.e.l.LoggingDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-29 08:10:18.658 INFO  [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2026-09-29 08:10:18.670 INFO  [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2026-09-29 08:10:18.673 INFO  [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2026-09-29 08:10:18.673 INFO  [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.36]
+2026-09-29 08:10:18.728 INFO  [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-09-29 08:10:18.729 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1189 ms
+2026-09-29 08:10:19.199 INFO  [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2026-09-29 08:10:19.225 INFO  [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2026-09-29 08:10:19.239 INFO  [main] c.e.l.LoggingDemoApplication - Started LoggingDemoApplication in 2.491 seconds (process running for 4.243)
+2026-09-29 08:10:25.429 INFO  [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-09-29 08:10:25.430 INFO  [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-09-29 08:10:25.431 INFO  [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2026-09-29 08:11:25.134 INFO  [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-09-29 08:11:25.183 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-09-29 08:11:32.190 INFO  [main] c.e.l.LoggingDemoApplication - Starting LoggingDemoApplication using Java 17.0.19 with PID 6420 (C:\Users\admin\IdeaProjects\IOC-PTHB251125-BE105-SS15-Logging\build\classes\java\main started by admin in C:\Users\admin\IdeaProjects\IOC-PTHB251125-BE105-SS15-Logging)
+2026-09-29 08:11:32.191 INFO  [main] c.e.l.LoggingDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-29 08:11:33.280 INFO  [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2026-09-29 08:11:33.296 INFO  [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2026-09-29 08:11:33.298 INFO  [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2026-09-29 08:11:33.299 INFO  [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.36]
+2026-09-29 08:11:33.373 INFO  [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-09-29 08:11:33.374 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1135 ms
+2026-09-29 08:11:33.815 INFO  [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2026-09-29 08:11:33.840 INFO  [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2026-09-29 08:11:33.851 INFO  [main] c.e.l.LoggingDemoApplication - Started LoggingDemoApplication in 2.143 seconds (process running for 3.47)
+2026-09-29 08:11:37.632 INFO  [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-09-29 08:11:37.632 INFO  [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-09-29 08:11:37.633 INFO  [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2026-09-29 08:14:09.675 INFO  [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-09-29 08:14:09.722 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-09-29 08:14:29.492 INFO  [main] c.e.l.LoggingDemoApplication - Starting LoggingDemoApplication using Java 17.0.19 with PID 21172 (C:\Users\admin\IdeaProjects\IOC-PTHB251125-BE105-SS15-Logging\build\classes\java\main started by admin in C:\Users\admin\IdeaProjects\IOC-PTHB251125-BE105-SS15-Logging)
+2026-09-29 08:14:29.494 INFO  [main] c.e.l.LoggingDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-29 08:14:30.826 INFO  [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2026-09-29 08:14:30.837 INFO  [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2026-09-29 08:14:30.840 INFO  [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2026-09-29 08:14:30.840 INFO  [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.36]
+2026-09-29 08:14:31.198 INFO  [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-09-29 08:14:31.198 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1654 ms
+2026-09-29 08:14:31.996 INFO  [main] o.s.b.a.e.web.EndpointLinksResolver - Exposing 3 endpoints beneath base path '/actuator'
+2026-09-29 08:14:32.041 INFO  [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2026-09-29 08:14:32.065 INFO  [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2026-09-29 08:14:32.082 INFO  [main] c.e.l.LoggingDemoApplication - Started LoggingDemoApplication in 3.147 seconds (process running for 5.563)
+2026-09-29 08:14:32.650 INFO  [RMI TCP Connection(3)-192.168.0.103] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-09-29 08:14:32.651 INFO  [RMI TCP Connection(3)-192.168.0.103] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-09-29 08:14:32.658 INFO  [RMI TCP Connection(3)-192.168.0.103] o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2026-09-29 08:17:28.473 INFO  [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-09-29 08:17:28.510 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-09-29 08:17:30.997 INFO  [main] c.e.l.LoggingDemoApplication - Starting LoggingDemoApplication using Java 17.0.19 with PID 20264 (C:\Users\admin\IdeaProjects\IOC-PTHB251125-BE105-SS15-Logging\build\classes\java\main started by admin in C:\Users\admin\IdeaProjects\IOC-PTHB251125-BE105-SS15-Logging)
+2026-09-29 08:17:30.998 INFO  [main] c.e.l.LoggingDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-29 08:17:31.914 INFO  [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2026-09-29 08:17:31.923 INFO  [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2026-09-29 08:17:31.925 INFO  [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2026-09-29 08:17:31.925 INFO  [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.36]
+2026-09-29 08:17:31.966 INFO  [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-09-29 08:17:31.967 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 930 ms
+2026-09-29 08:17:32.440 INFO  [main] o.s.b.a.e.web.EndpointLinksResolver - Exposing 3 endpoints beneath base path '/actuator'
+2026-09-29 08:17:32.472 INFO  [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2026-09-29 08:17:32.487 INFO  [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2026-09-29 08:17:32.500 INFO  [main] c.e.l.LoggingDemoApplication - Started LoggingDemoApplication in 1.851 seconds (process running for 2.542)
+2026-09-29 08:17:32.669 INFO  [RMI TCP Connection(1)-192.168.0.103] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-09-29 08:17:32.669 INFO  [RMI TCP Connection(1)-192.168.0.103] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-09-29 08:17:32.672 INFO  [RMI TCP Connection(1)-192.168.0.103] o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration debug="true">
+
+    <appender name="Console" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} %-5level [%thread] %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <appender name="Discord" class="com.example.loggingdemo.appender.DiscordAppender">
+        <webhookUrl>https://discord.com/api/webhooks/1554314475337678868/1lWUrRPPnYIPTzyIMVCn83uUcZoPJEihRKick3waZgMHANqXbVEayJ6y0iZIfFlDDno6</webhookUrl>
+    </appender>
+
+    <root level="INFO">
+        <appender-ref ref="Console" />
+        <appender-ref ref="Discord" />
+    </root>
+
+</configuration>
